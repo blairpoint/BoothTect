@@ -1,0 +1,5 @@
+{
+  "name": "DJ Booth Architect",
+  "description": "A visual tool for designing DJ setups with procedural line-art equipment rendering and AI-powered configuration assistance.",
+  "requestFramePermissions": []
+}
